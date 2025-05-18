@@ -7,7 +7,7 @@ Reg No : 212223110036
 To design and develop a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation.
 
 ### PROBLEM STATEMENT:
-
+The goal is to develop an application that can accurately recognize and categorize named entities such as persons, organizations, locations, dates, etc., from input text. By fine-tuning a pre-trained BART model specifically for NER tasks, the system should be able to understand contextual relationships and identify relevant entities. The Gradio framework will be used to build a user-friendly interface for real-time interaction and evaluation.
 ### DESIGN STEPS:
 
 #### STEP 1:
@@ -86,7 +86,7 @@ demo.launch()
 
 ```
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/713f0812-824a-4f56-9a95-2b33360d2b4a)
+![image](https://github.com/user-attachments/assets/5fdff742-fce0-44b2-991d-746e26ee40b0)
 
 ### RESULT:
 Thus, developed an NER prototype application with user interaction and evaluation features, using a fine-tuned BART model deployed through the Gradio framework.
